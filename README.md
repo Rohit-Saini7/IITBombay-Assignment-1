@@ -7,4 +7,3 @@ This app is for web development internship at IIT, Bombay.
 - ReactJS
 - Firebase
 - Styled-Components
-# IITBombay-Assignment-1
